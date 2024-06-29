@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/Abysskaisen/Hack4g/raw/main/hack4g.zip && unzip hack4g.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
